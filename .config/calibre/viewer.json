@@ -1,0 +1,115 @@
+{
+  "main_window_state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAL9AAAAAwAAAAAAAAEAAAACwPwCAAAAAfsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAoAAACwAAAAJUA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABwAYgBvAG8AawBtAGEAcgBrAHMALQBkAG8AYwBrAAAAAAD/////AAAA3gD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABmAG8AbwB0AG4AbwB0AGUAcwAtAGQAbwBjAGsAAAAAAP////8AAABJAP///wAABRIAAALAAAAAAQAAAAIAAAABAAAAAvwAAAACAAAAAAAAAAEAAAAQAHQAbwBvAGwAXwBiAGEAcgMAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAASAHQAbwBvAGwAXwBiAGEAcgAyAQAAAAD/////AAAAAAAAAAA="
+  }, 
+  "in_paged_mode": true, 
+  "viewer_window_geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAAAAAAAAGAAABVUAAAL/AAAAHwAAABgAAAKrAAAC/QAAAAACAAAABVY="
+  }, 
+  "viewer_toc_isvisible": false, 
+  "multiplier": 1.0, 
+  "custom_colors_for_color_dialog": [
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ]
+  ], 
+  "viewer_open_history": [
+    "/home/reda/Desktop/Books/Adrian Rosebrock/Practical Python and OpenCV_ An Introductory, Example Driven Guide to Image Processing and Compu (9)/Practical Python and OpenCV_ An Introducto - Adrian Rosebrock.mobi", 
+    "/home/reda/Desktop/Books/Kaehler, Adrian/Learning OpenCV 3 (8)/Learning OpenCV 3 - Kaehler, Adrian.epub"
+  ]
+}
